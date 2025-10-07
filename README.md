@@ -49,7 +49,7 @@ A full-featured **restaurant website** built with **Django** and **Bootstrap**, 
 
 1️⃣ **Clone the repository:**
 ```sh
-git clone https://github.com/AbdullahRFA/Restaurants_website_project_django.git
+git clone https://github.com/Tejaswini2104/Restaurant-Website.git
 cd restaurant-website
 ```
 
@@ -132,19 +132,8 @@ urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
 
 ---
 
-## 📜 License
-This project is open-source and available under the **MIT License**.
-
----
-
 ## 🤝 Contributing
 Feel free to **fork this repository** and submit a pull request with improvements. 🚀
 
 ---
-
-## 📬 Contact
-- **Developer:** Abdullah Nazmus-Sakib
-- **GitHub:** [AbdullahRFA](https://github.com/AbdullahRFA)
-- **Portfolio:** [abdullah-nazmus-sakib-rfa.netlify.app](https://abdullah-nazmus-sakib-rfa.netlify.app/)
-- **Email:** [shakibrybmn@gmail.com)](mailto:shakibrybmn@gmail.com)
 
